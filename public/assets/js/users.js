@@ -15,7 +15,6 @@ $('#userForm').on('submit', function() {
                     $('#usersList').html(html);
                 }
             });
-            //刷新当前页面
         }
     });
 
